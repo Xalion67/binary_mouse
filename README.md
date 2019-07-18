@@ -4,4 +4,4 @@
 [Разбор задачи в журнале "Код"](https://thecode.media/binary-mouse/)
 
 **Пример**
-<script id="asciicast-HsBecDlPSoeYlAa21zWJQRYzv" src="https://asciinema.org/a/HsBecDlPSoeYlAa21zWJQRYzv.js" async></script>
+[![asciicast](https://asciinema.org/a/HsBecDlPSoeYlAa21zWJQRYzv.svg)](https://asciinema.org/a/HsBecDlPSoeYlAa21zWJQRYzv)
